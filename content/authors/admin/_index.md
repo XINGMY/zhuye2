@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 学术主页
+title: 邢宇
 
 # Name pronunciation (optional)
 name_pronunciation: 邢宇
