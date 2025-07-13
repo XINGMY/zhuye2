@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 邢宇
+title: 学术主页
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 邢宇
 
 # Full name (for SEO)
 first_name: Shiung Wu
